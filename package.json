@@ -1,0 +1,22 @@
+{
+  "name": "forum",
+  "version": "1.0.0",
+  "description": "Simple forum with jQuery library",
+  "repository": "https://github.com/alexeimun/forum",
+  "scripts": {
+    "start": "http-server -p 8088 ."
+  },
+  "keywords": ["jquery", "forum"],
+  "author": {
+    "email": "fact1128@hotmail.com",
+    "name": "Alexis Muñoz",
+    "url": "https://github.com/alexeimun"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "bootstrap3-wysihtml5-bower": "^0.3.3",
+    "jquery": "^3.2.1",
+    "http-server": "^0.10.0"
+  }
+}

@@ -1,0 +1,17 @@
+body {
+    padding-top: 50px;
+}
+
+.badge {
+    cursor: pointer;
+}
+
+h1 {
+    text-align: center;
+}
+
+#post {
+    border: 1px solid lightgray;
+    padding: 15px;
+    border-radius: 5px;
+}
